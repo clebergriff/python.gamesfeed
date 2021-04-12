@@ -1,1 +1,2 @@
-# python.gamesfeed
+This script is able to fetch multiple sources of gaming news and save them in a MySQL Database
+As a configurable script, you can extract data from HTML based on the parameters on sources and tags tables
